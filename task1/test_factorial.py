@@ -1,4 +1,4 @@
-from factorial import Calc
+from task1.factorial import Calc
 import unittest
 
 class TestFactorial(unittest.TestCase):
